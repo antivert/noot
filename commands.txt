@@ -1,0 +1,7 @@
+!kick - kicks a user
+/minesweeper - makes a minesweeper board
+/embed - embeds a message
+/ban - bans a user
+/lock - locks a text channel
+/coinflip - does a coinflip
+/unlock - unlocks a text channel
