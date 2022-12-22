@@ -5,3 +5,5 @@
 /lock - locks a text channel
 /coinflip - does a coinflip
 /unlock - unlocks a text channel
+/ppsize - displays pp size
+/howgay - shows gay %
